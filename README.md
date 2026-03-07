@@ -40,6 +40,17 @@ All existing local graph filters and toggles (*Forward links*, *Back links*, *Sh
 2. Copy them into `<your vault>/.obsidian/plugins/local-graph-tag-links/`.
 3. Reload Obsidian and enable the plugin under **Settings → Community plugins**.
 
+### Using BRAT 
+
+[BRAT](https://github.com/TfTHacker/obsidian42-brat) lets you install plugins that aren't yet in the community directory.
+
+1. Install **Obsidian42 - BRAT** from the Community Plugins directory.
+2. Open **Settings → BRAT** and click **Add Beta plugin**.
+3. Enter the repository URL: `https://github.com/Lumyo/obsidian-local-graph-tag-links`
+4. Click **Add Plugin**, then enable it under **Settings → Community plugins**.
+
+BRAT will also notify you of future updates automatically.
+
 ### From source
 
 Requires [Node.js](https://nodejs.org) and [Yarn](https://yarnpkg.com).
